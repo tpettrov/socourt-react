@@ -1,0 +1,131 @@
+.contact-screen{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: start;
+        justify-content: flex-start;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    height: 100%;
+    color: #999999;
+  }
+  
+  .contact-screen h2{
+    font-weight: lighter;
+  }
+  
+  .contact-header{
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    height: 35px;
+    line-height: 35px;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    color: #7ebaf9;
+    border-bottom: 1px solid #7ebaf9;
+  }
+  
+  .contact-header span {
+    padding-left: 10px;
+  }
+  
+  .icon-question{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+        align-items: center;
+    -ms-flex-pack: center;
+        justify-content: center;
+    margin-right: 10px;
+    border-left: 1px solid #d7d7d7;
+    padding-left: 5px;
+  }
+  .contact-wrap{
+    width: 100%;
+    padding-top: 50px;
+  }
+  
+  .contact-
+  {
+    -ms-flex: 1 1;
+        flex: 1 1;
+    width: 100%;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-align: start;
+        align-items: flex-start;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .main-row{
+    display: -ms-flexbox;
+    display: flex;
+    padding: 20px 20px 20px 60px;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  .main-avatar{
+    -ms-flex: 1 1;
+        flex: 1 1;
+    -ms-flex-pack: end;
+        justify-content: flex-end;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  .main-avatar img {
+    width: 92px;
+    height: 92px;
+  }
+  
+  .main-text{
+    -ms-flex: 7 1;
+        flex: 7 1;
+    padding-left: 20px;
+    font-size: 35px;
+    color: #404040;
+  }
+  
+  .secondary-row{
+    display: -ms-flexbox;
+    display: flex;
+    padding: 20px 20px 20px 60px;
+    -ms-flex-pack: start;
+        justify-content: flex-start;
+    -ms-flex-align: center;
+        align-items: center;
+  }
+  
+  .sc-title{
+    -ms-flex: 1 1;
+        flex: 1 1;
+    /* align-items: flex-end; */
+    -ms-flex-pack: end;
+        justify-content: flex-end;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .sc-text{
+    -ms-flex: 7 1;
+        flex: 7 1;
+  }
+  
+  .secondary-row .title{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-right: 10px;
+  }
+  
+  .secondary-row .text{
+    font-size: 18px;
+    font-weight: lighter;
+    color: #404040;
+  }
+  
