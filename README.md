@@ -13,6 +13,7 @@ create-react-app
 # Task
 
 ## UI task
+<sup>Hint: use the react router for navigation in the app ["react-router"](https://reacttraining.com/react-router/web/guides/quick-start)</sup>
 
 1. Create a simple react ( only UI based ) web page displaying a number of contacts
 2. Design simple components that render a specific information that is repeated more than ones, and place the into the components directory
