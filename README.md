@@ -26,4 +26,4 @@ create-react-app
   - Create a working search input that filters the contacts.
 
 ## Sample image
-![](assets/task.png)
+![](src/assets/task.png)
